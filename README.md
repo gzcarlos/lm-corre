@@ -8,4 +8,4 @@ This is a web blog built on Ruby on Rails for an event hopped to be happening in
 * sharing post through Facebook and Twitter
 
 
-This are the main functionalities
+This are the main functionalities.
